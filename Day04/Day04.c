@@ -43,6 +43,8 @@ void TotalMet(struct Data* d) {
 	
 }
 
+
+
 void AvgMet(struct Data* d) {
 	d->avg = d->total / 3;
 }
@@ -76,18 +78,18 @@ int main() {
 	//printf("%d %d\n", d.data1, d.data2);
 	//printf("%d %d\n", d2.data1, d2.data2);
 	//printf("d의 크기 : %d\n", sizeof(d));
+
 	struct Data d;
 
 	printf("국어 수학 영어 점수 입력 >>");
 	scanf("%d %d %d", &d.kor, &d.mat, &d.eng);
+
 	TotalMet(&d);
-	printf("합계 : %d", d.total);
+	printf("합계 : %d\n", d.total);
 	AvgMet(&d);
-	printf("평균 : %.2f", d.avg);
+	printf("평균 : %.2f\n", d.avg);
 	GradeMet(&d);
-	printf("등급 : %c", d.grade);
-
-
+	printf("등급 : %c\n", d.grade);
 
 	return 0;
 }
