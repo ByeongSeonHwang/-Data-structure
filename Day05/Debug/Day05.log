@@ -1,0 +1,14 @@
+﻿  Day05.c
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(43,13): warning C4047: '함수': 'stu *'의 간접 참조 수준이 'stu **'과(와) 다릅니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(43,13): warning C4024: 'totlaMet': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(44,11): warning C4047: '함수': 'stu *'의 간접 참조 수준이 'stu **'과(와) 다릅니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(44,11): warning C4024: 'avgMet': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(45,13): warning C4047: '함수': 'stu *'의 간접 참조 수준이 'stu **'과(와) 다릅니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(45,13): warning C4024: 'gradeMet': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(68,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(68,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(68,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(73,14): warning C4133: '함수': 'int *'과(와) 'stu *' 사이의 형식이 호환되지 않습니다.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(66,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\10월 평일 C언어 김도현\test\Day05\Day05.c(68,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Day05.vcxproj -> E:\10월 평일 C언어 김도현\test\Day05\Debug\Day05.exe

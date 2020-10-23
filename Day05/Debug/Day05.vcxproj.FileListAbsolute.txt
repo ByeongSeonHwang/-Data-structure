@@ -1,0 +1,4 @@
+E:\10월 평일 C언어 김도현\test\Day05\Debug\Day05.exe
+E:\10월 평일 C언어 김도현\test\Day05\Debug\Day05.pdb
+D:\10월자료구조_황병선\Day05\Debug\Day05.exe
+D:\10월자료구조_황병선\Day05\Debug\Day05.pdb
